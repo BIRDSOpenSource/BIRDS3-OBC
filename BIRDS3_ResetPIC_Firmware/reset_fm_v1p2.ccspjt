@@ -1,0 +1,84 @@
+[PROJECT]
+Target=reset_fm_v1p2.hex
+Processor_Text=PIC16F1789
+CCSVersion=5.015
+Compiler=PCM
+[Target Data]
+FileList=reset_fm_v1p2.c
+[reset_fm_v1p2.c]
+Type=4
+[mru-list]
+1=reset_fm_v1p2.c
+
+[defines]
+buildcount=13
+
+[ProjectLog]
+Days=9
+D1=24-01-2019
+D1_L=4
+D1_L1=[75375]Started Editing.
+D1_L2=[76160]Stopped Editing.
+D1_L3=[76279]Started Editing.
+D1_L4=[76581]Stopped Editing.
+TotalEdit=15
+TotalDebug=0
+D2=25-01-2019
+D2_E=9
+D2_D=0
+D2_L=3
+D2_L1=[62423]Project Closed.
+D2_L2=[62424]Project Opened.
+D2_L3=[70359]Project Closed.
+D3=29-01-2019
+D3_L=1
+D3_L1=[64624]Project Opened.
+D4=30-01-2019
+D4_L=2
+D4_L1=[54668]Project Opened.
+D4_L2=[67036]Project Closed.
+D5=01-02-2019
+D5_L=9
+D5_L1=[59114]Project Opened.
+D5_L2=[62166]Started Editing.
+D5_L3=[62468]Stopped Editing.
+D5_E=6
+D5_D=0
+D5_L4=[71985]Project Closed.
+D5_L5=[73801]Project Opened.
+D5_L6=[73921]Project Opened.
+D5_L7=[73932]Started Editing.
+D5_L8=[74230]Stopped Editing.
+D5_L9=[74230]Project Closed.
+D6=04-07-2019
+D6_L=2
+D6_L1=[61185]Project Opened.
+D6_L2=[61303]Project Closed.
+D7=24-04-2020
+D7_L=2
+D7_L1=[4502]Project Opened.
+D7_L2=[5923]Project Closed.
+D8=16-05-2020
+D8_L=2
+D8_L1=[64475]Project Opened.
+D8_L2=[70862]Project Closed.
+D9=10-06-2021
+D9_L=1
+D9_L1=[67848]Project Opened.
+
+[Opened Files]
+1=reset_fm_v1p2.c
+t1=1
+2=define_fun.c
+t2=1
+Count=3
+3=power_enable.c
+t3=1
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices+\;C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\;C:\Program Files (x86)\PICC\Devices++\
+[Units]
+Count=1
+1=reset_fm_v1p2 (main)
+
+[fileformats]
+forcecoff=0
